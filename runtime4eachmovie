@@ -1,0 +1,51 @@
+<p><h3><em>Run Time(in minutes)</em></h3></p>
+  <table style="background-color:lightgray" border="1">
+    <th>80s</th>
+    <th>90s</th>
+    <th>100s</th>
+    <tr>
+      <td rowspan="10">Toy Story</td>
+      <td>Brave</td>
+      <td>Lightyear</td>
+    </tr>
+    <tr>
+      <td>Luca</td>
+      <td>Turning Red</td>
+    </tr>
+    <tr>
+      <td>Inside Out</td>
+      <td>Cars</td>
+    </tr>
+    <tr>
+      <td>Up</td>
+      <td>Cars 2</td>
+    </tr>
+    <tr>
+      <td>Finding Dory</td>
+      <td>Cars 3</td>
+    </tr>
+    <tr>
+      <td>Toy Story 2</td>
+      <td>Soul</td>
+    </tr>
+    <tr>
+      <td rowspan="58">The Good Dinosaur</td>
+      <td>Coco</td>
+    </tr>
+    <tr>
+      <td>Monsters Inc</td>
+      <td>Toy Story 3</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Toy Story 4</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Ratatouille</td>
+    </tr>
+    <td>
+      <tr></tr>
+      <tr>Monsters University</tr>
+    </td>
+  </table>
